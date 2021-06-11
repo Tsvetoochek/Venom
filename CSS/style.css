@@ -97,6 +97,11 @@ body {
   background: url("../img/background.png") no-repeat center center / 100%;
 }
 
+.blood {
+  background: url("../img/blood.png") no-repeat top right,
+    #14131a url("../img/background.png") no-repeat center center / 100%;
+}
+
 .content {
   display: flex;
   max-width: 1140px;
